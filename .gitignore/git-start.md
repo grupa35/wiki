@@ -1,6 +1,7 @@
 # Strefa download
 1. [Git]()
 2. [SourceTree](https://www.sourcetreeapp.com/)
+3. [Książka](https://chomikuj.pl/kefirm/Ksi*c4*85*c5*bcki/Informatyka/PHP/Helion+-+Git.+Rozproszony+system+kontroli+wersji,3946879722.pdf)
 
 # Wstępna konfiguracja
 https://git-scm.com/book/pl/v1/Dostosowywanie-Gita-Konfiguracja-Gita
