@@ -13,6 +13,9 @@ https://git-scm.com/book/pl/v1/Dostosowywanie-Gita-Konfiguracja-Gita
     1. otwieramy git-bash
     2. [generowanie ssh](https://git-scm.com/book/pl/v1/Git-na-serwerze-Generacja-pary-kluczy-SSH)
     3. [dodawanie klucza ssh do githuba](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
+    
+# Pull request
+https://help.github.com/articles/about-pull-requests/
    
 # Dodanie naszego repo do eclipsa
 (Wymagana konfiguracja SourceTree)
