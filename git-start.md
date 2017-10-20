@@ -26,7 +26,7 @@ https://help.github.com/articles/about-pull-requests/
 
 jeżeli wszystko jest ok powinna pojawić się na githubie
 
-4. [import do projektu do eclipsa](http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-importproject.htm)
+4. [import projektu do eclipsa](http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-importproject.htm)
 
 # Najważniejsze polecenia do konsoli
 https://blog.piotrnalepa.pl/2013/05/19/git-podreczny-zestaw-niezbednych-komend-dla-kazdego-webdevelopera-i-nie-tylko/
