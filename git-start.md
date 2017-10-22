@@ -38,8 +38,8 @@ https://help.github.com/articles/approving-a-pull-request-with-required-reviews/
 2. wybieramy folder z projektem
 3. opcja `creating project from existing sources`
 4. next, next aż do wyboru sdk
-5. jeżeli nie mamy wybranego sdk trzeba podać folder instalcji, domyślnie `program files/java/jakaś wersja sdk`
-    * jeżeli nie mamy ściągamy z [oracle.com](`http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html`) najnowszą wersję
+5. jeżeli nie mamy wybranego sdk trzeba podać folder instalcji, domyślnie `program files/java/sdkXX`
+    * jeżeli nie mamy ściągamy z [oracle.com](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) najnowszą wersję
     * opcjonalnie konfigurujemy ścieżki środowiskowe `https://docs.oracle.com/javase/tutorial/essential/environment/paths.html`
 6. finish i mamy projekt w intellij
 
