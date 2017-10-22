@@ -26,6 +26,7 @@ jeżeli wszystko jest ok powinna pojawić się na githubie
 
 # Pull request
 https://help.github.com/articles/about-pull-requests/
+
 https://help.github.com/articles/approving-a-pull-request-with-required-reviews/
 
 
