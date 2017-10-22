@@ -14,10 +14,7 @@ https://git-scm.com/book/pl/v1/Dostosowywanie-Gita-Konfiguracja-Gita
     2. [generowanie ssh](https://git-scm.com/book/pl/v1/Git-na-serwerze-Generacja-pary-kluczy-SSH)
     3. [dodawanie klucza ssh do githuba](https://help.github.com/articles/adding-a-new-ssh-key-to-your-github-account/)
     
-# Pull request
-https://help.github.com/articles/about-pull-requests/
-   
-# Dodanie naszego repo do eclipsa
+# Tworzenie własnego brancha i wysyłanie zmian
 (Wymagana konfiguracja SourceTree)
 1. pobieramy repo przy pomocy sourcetree `git@github.com:grupa35/bank.git`
 2. robimy nową gałąź z nazwą swojego zespołu przyciskiem branch
@@ -26,7 +23,25 @@ https://help.github.com/articles/about-pull-requests/
 
 jeżeli wszystko jest ok powinna pojawić się na githubie
 
-4. [import projektu do eclipsa](http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-importproject.htm)
+
+# Pull request
+https://help.github.com/articles/about-pull-requests/
+https://help.github.com/articles/approving-a-pull-request-with-required-reviews/
+
+
+   
+# Dodanie naszego repo do eclipsa
+1. [import projektu do eclipsa](http://help.eclipse.org/kepler/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-importproject.htm)
+
+# Dodanie naszego repo do intellij
+1. na ekranie startowymi import
+2. wybieramy folder z projektem
+3. opcja `creating project from existing sources`
+4. next, next aż do wyboru sdk
+5. jeżeli nie mamy wybranego sdk trzeba podać folder instalcji, domyślnie `program files/java/jakaś wersja sdk`
+    * jeżeli nie mamy ściągamy z [oracle.com](`http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html`) najnowszą wersję
+    * opcjonalnie konfigurujemy ścieżki środowiskowe `https://docs.oracle.com/javase/tutorial/essential/environment/paths.html`
+6. finish i mamy projekt w intellij
 
 # Najważniejsze polecenia do konsoli
 https://blog.piotrnalepa.pl/2013/05/19/git-podreczny-zestaw-niezbednych-komend-dla-kazdego-webdevelopera-i-nie-tylko/
