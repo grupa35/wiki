@@ -10,7 +10,7 @@ Ustawienia = File -> Settings lub Ctrl + Alt + S
 ***
 
 ### Ustawienia
-** Brak wspomnienia o opcji -> Default **
+**Brak wspomnienia o opcji -> Default**
 1. Save actions `Ustawienia -> Save Actions`
     * activate save actions on save
     * no action if compile errors
@@ -23,7 +23,7 @@ Ustawienia = File -> Settings lub Ctrl + Alt + S
     * remove explicit generic type for diamond
     * remove unused suppress warning annotation
     * remove unnecessary semicolon
-2. Code style Code Style `Ustawienia -> Editor -> Code Style -> Java -> Scheme -> Koło zębate -> Import Scheme -> Intellij`
+2. Code Style `Ustawienia -> Editor -> Code Style -> Java -> Scheme -> Koło zębate -> Import Scheme -> Intellij`
     * [pz-style](pz-style.xml)
 3. Git `Ustawienia -> Version Control -> Git`
     * Path to git executable (Zmienić jeżeli instalacja była do niestandardowego folderu)
@@ -38,7 +38,7 @@ Ustawienia = File -> Settings lub Ctrl + Alt + S
     * List -> All
     * Zakładka -> Commit message -> Add -> {id} {summary}
 
-** Po stworzeniu projektu dodamy kilka ustawień **
+**Po stworzeniu projektu dodamy kilka ustawień**
 ***
 ### Skróty klawiczowe
 [Polecam zapoznać się ze skrótami klawiszowymi z tego linku](https://resources.jetbrains.com/storage/products/intellij-idea/docs/IntelliJIDEA_ReferenceCard.pdf)
