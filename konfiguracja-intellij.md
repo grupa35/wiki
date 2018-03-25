@@ -32,11 +32,15 @@ Ustawienia = File -> Settings lub Ctrl + Alt + S
 4. Github `Ustawienia -> Version Control -> Github`
     * Podajemy swoje dane
 5. Trello `Ustawienia -> Tools -> Tasks`
+
+    `nazwa_grupy = pz-backend lub pz-frontend`
+    * Changelist -> nazwa_grupy-{number} {summary}
+    * feature branch -> nazwa_grupy-{number}
     * Server -> z listy wybieramy trello
     * Klikamy ‘Where can I get authorization token?’ i kopiujemy z przeglądarki token do pola token
-    * Board -> Wybieramy pz->backend lub pz->front
+    * Board -> Wybieramy nazwa_grupy
     * List -> All
-    * Zakładka -> Commit message -> Add -> {id} {summary}
+    * Zakładka -> Commit message -> Add -> nazwa_grupy-{number} {summary}
 
 **Po stworzeniu projektu dodamy kilka ustawień**
 ***
